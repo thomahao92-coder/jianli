@@ -1,0 +1,75 @@
+{
+    "works": [
+        {
+            "id": 1775746656303,
+            "title": "局部修改",
+            "desc": "对局部进行修改或移除",
+            "category": "产品，场景",
+            "img": "images/works/局部修改.png"
+        },
+        {
+            "id": 1775746688128,
+            "title": "姿势修改",
+            "desc": "对模特姿势进行修改",
+            "category": "人物，场景",
+            "img": "images/works/男装模特姿势修改.png"
+        },
+        {
+            "id": 1775746750994,
+            "title": "静物展示",
+            "desc": "对服装进行平铺展示",
+            "category": "产品，场景",
+            "img": "images/works/服装平铺.png"
+        },
+        {
+            "id": 1775746777868,
+            "title": "模特换脸",
+            "desc": "对模特五官进行更换",
+            "category": "人物",
+            "img": "images/works/人物换脸.png"
+        }
+    ],
+    "workflows": [
+        {
+            "id": 1,
+            "title": "人物肖像生成工作流",
+            "desc": "使用 ControlNet + LoRA 实现高质量人物肖像生成。",
+            "img": "",
+            "tags": [
+                "ControlNet",
+                "LoRA",
+                "人物"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "产品渲染工作流",
+            "desc": "针对电商场景优化的产品图生成流程。",
+            "img": "",
+            "tags": [
+                "产品渲染",
+                "批量生成",
+                "电商"
+            ]
+        }
+    ],
+    "about": {
+        "title": "从直播中控到 AI 美工",
+        "paragraphs": [
+            "介绍段落1",
+            "介绍段落2"
+        ],
+        "skills": [
+            "ComfyUI",
+            "Stable Diffusion",
+            "ControlNet",
+            "LoRA 训练",
+            "Photoshop"
+        ]
+    },
+    "contact": {
+        "email": "your.email@example.com",
+        "wechat": "your_wechat_id",
+        "phone": "138-xxxx-xxxx"
+    }
+}
