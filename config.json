@@ -1,0 +1,73 @@
+{
+    "works": [
+        {
+            "id": 1775746656303,
+            "title": "局部修改",
+            "desc": "对局部进行修改或移除",
+            "category": "产品，场景",
+            "img": "images/works/局部修改.png"
+        },
+        {
+            "id": 1775746688128,
+            "title": "姿势修改",
+            "desc": "对模特姿势进行修改",
+            "category": "人物，场景",
+            "img": "images/works/男装模特姿势修改.png"
+        },
+        {
+            "id": 1775746750994,
+            "title": "静物展示",
+            "desc": "对服装进行平铺展示",
+            "category": "产品，场景",
+            "img": "images/works/服装平铺.png"
+        },
+        {
+            "id": 1775746777868,
+            "title": "模特换脸",
+            "desc": "对模特五官进行更换",
+            "category": "人物",
+            "img": "images/works/人物换脸.png"
+        }
+    ],
+    "workflows": [
+        {
+            "id": 1,
+            "title": "Nanobanan低成本工作流",
+            "desc": "可以用接近0.1元的成本接入香蕉2模型进行工作",
+            "img": "images/workflows/一毛钱香蕉2.png",
+            "tags": [
+                "Nanobanana",
+                "comfy ui"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "服装平铺和3D展示",
+            "desc": "针对服装进行平铺展示和3D展示",
+            "img": "images/workflows/服装平铺和3D展示.png",
+            "tags": [
+                "产品渲染",
+                "批量生成",
+                "电商"
+            ]
+        }
+    ],
+    "about": {
+        "title": "从直播中控到 AI 美工",
+        "paragraphs": [
+            "我在直播中控过程中总结了抖音的流量分配逻辑和日常人货场维护和思考，并且在持续不断的关注comfy ui变化，可以解决不同的图片需求",
+            "本人日常有总结和复盘的习惯以文本的形式进行记录和反思，并且会持续不断的了解新的事物"
+        ],
+        "skills": [
+            "ComfyUI",
+            "Photoshop",
+            "电商运营",
+            "巨量千川"
+        ]
+    },
+    "contact": {
+        "email": "3527814607@qq.com",
+        "wechat": "17384319851",
+        "phone": "17384319851"
+    }
+}
